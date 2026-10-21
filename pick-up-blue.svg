@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24px"
+   viewBox="0 -960 960 960"
+   width="24px"
+   fill="#1f1f1f"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="pick-up-blue.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.979167"
+     inkscape:cx="6.9791411"
+     inkscape:cy="15.695706"
+     inkscape:window-width="1904"
+     inkscape:window-height="1001"
+     inkscape:window-x="48"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="M173.85-266.44q-30.39-30.29-30.39-73.56H65v-340q0-24.75 17.63-42.37Q100.25-740 125-740h541.54L895-517.69V-340h-72.31q0 43.27-30.29 73.56-30.29 30.28-73.55 30.28-43.27 0-73.56-30.28Q615-296.73 615-340H351.15q0 43.07-30.38 73.46-30.39 30.38-73.46 30.38-43.08 0-73.46-30.28ZM585-548.46h189.23L638.08-680H585v131.54Zm-230 0h170V-680H355v131.54Zm-230 0h170V-680H125v131.54ZM282.81-304.5q14.5-14.5 14.5-35.5t-14.5-35.5q-14.5-14.5-35.5-14.5t-35.5 14.5q-14.5 14.5-14.5 35.5t14.5 35.5q14.5 14.5 35.5 14.5t35.5-14.5Zm471.54 0q14.5-14.5 14.5-35.5t-14.5-35.5q-14.5-14.5-35.5-14.5t-35.5 14.5q-14.5 14.5-14.5 35.5t14.5 35.5q14.5 14.5 35.5 14.5t35.5-14.5ZM125-400h39.69q12.77-18 34.2-30.92 21.42-12.93 48.42-12.93t47.84 12.35Q316-419.15 329.92-400h306.31q12.77-18 34.19-30.92 21.43-12.93 48.43-12.93t47.84 12.35q20.85 12.35 34.77 31.5H835v-88.46H125V-400Zm710-88.46H125h710Z"
+     id="path1"
+     style="fill:#1a73e8;fill-opacity:1;stroke:none;stroke-opacity:1" />
+</svg>
